@@ -1,8 +1,0 @@
-# Default: let Git auto-detect text files and normalize line endings in-repo to LF.
-* text=auto
-
-# Shell scripts MUST be LF — they break on macOS/Linux if shebang has CRLF.
-*.sh    text eol=lf
-
-# Markdown: keep LF in-repo for consistency across platforms.
-*.md    text eol=lf
