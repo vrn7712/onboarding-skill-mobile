@@ -122,4 +122,8 @@ onboarding-skill-mobile/
 
 ## License
 
-MIT — use it, fork it, ship it. Attribution appreciated but not required.
+Copyright © 2026 Vrushal Modh
+
+This bundle is free software: you can redistribute it and/or modify it under the terms of the **GNU General Public License v3.0** as published by the Free Software Foundation.
+
+It is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the [LICENSE](./LICENSE) file for the full text, or <https://www.gnu.org/licenses/gpl-3.0.html>.
