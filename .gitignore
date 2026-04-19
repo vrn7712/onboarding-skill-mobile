@@ -1,0 +1,20 @@
+# Source material — excluded from the distributed repo
+Some-Youtube-Video-Transcripts..txt
+Mobile App Onboarding Research for SKILL.md
+
+# Legacy combined skill file (superseded by the four skills in ./skills/)
+/SKILL.md
+
+# Project-local install target (created by ./skills.sh install --project)
+.claude/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+~$*
