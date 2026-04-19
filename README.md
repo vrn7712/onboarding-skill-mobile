@@ -120,18 +120,6 @@ onboarding-skill-mobile/
 
 ---
 
-## Credits & sources
-
-This bundle distills insights from:
-
-- **"I Studied 1,460 Onboarding Flows. Here's What I Found."** — [YouTube](https://youtu.be/Qsq-Sj_rojU)
-- **"The app onboarding secrets that convert (proven strategies)"** — [YouTube](https://youtu.be/QMo2T5apdYw)
-- **"Mobile app Onboarding secrets that convert" (podcast w/ Alex Schievano, screens.design)** — [YouTube](https://youtu.be/zCtwBQYD18U)
-- Academic work on Endowed Progress (Nunes & Dreze, 2006), Peak-End Rule, Cognitive Load Theory, and Cialdini's principles of influence
-- Architectural teardowns of Duolingo, Cal AI, Noom, Notion, Slack, Linear, Headspace, Grammarly, Bumble, Tinder, Airbnb, Mural, Brilliant, Speak, Bitepal, BoostUp Social, Starla, Focus Flight, Timo, Beside, Alma, One Year, Base Camp, Superhuman, Cake Equity, Shazam, Tight, Dollar Shave Club, House, and more
-
----
-
 ## License
 
 MIT — use it, fork it, ship it. Attribution appreciated but not required.
